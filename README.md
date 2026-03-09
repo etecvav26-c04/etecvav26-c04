@@ -24,21 +24,21 @@ Nosso objetivo é utilizar a **tecnologia como ferramenta de impacto social**, p
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/SEU-USUARIO">
+        <a href="https://github.com/BeatrizLima08">
           <img src="https://github.com/BeatrizLima08.png" width="100" style="border-radius:50%" alt="BeatrizLima08"/>
         </a>
         <br/>
         <b>Beatriz Lima</b>
       </td>
       <td align="center">
-        <a href="https://github.com/USUARIO2">
+        <a href="https://github.com/clarihlinda">
           <img src="https://github.com/clarihlinda.png" width="100" style="border-radius:50%" alt="clarihlinda"/>
         </a>
         <br/>
         <b>Clarice Dias</b>
       </td>
       <td align="center">
-        <a href="https://github.com/USUARIO3">
+        <a href="https://github.com/GustavoGG2807">
           <img src="https://github.com/GustavoGG2807.png" width="100" style="border-radius:50%" alt="GustavoGG2807"/>
         </a>
         <br/>
