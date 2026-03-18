@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png">
+  <img src="banner e melhor falar.png">
 </p>
 
 # 🍃 Sobre o Projeto — É Melhor Falar
